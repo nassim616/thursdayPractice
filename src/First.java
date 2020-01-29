@@ -7,5 +7,9 @@ public class First {
         System.out.println("hello");
         System.out.println("working w metin");
         System.out.println("hahah");
+        
+        System.out.println("working w metin");
+        System.out.println("hahah");
+        
     }
 }
